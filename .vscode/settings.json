@@ -1,0 +1,9 @@
+{
+    "launch": {
+        // "configurations": [],
+        // "compounds": []
+
+        "editor.autoClosingBrackets": false,
+        "editor.suggestionTriggerCharacters": false,
+    }
+}
