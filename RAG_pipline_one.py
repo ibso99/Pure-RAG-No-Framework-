@@ -224,7 +224,7 @@ if __name__ == "__main__":
         "Explain the concept of energy balance and its importance in weight management."
     ]
 
-    # Manually created question list
+    # Manually created question list for nutrition
     manual_questions = [
         "How often should infants be breastfed?",
         "What are symptoms of pellagra?",
